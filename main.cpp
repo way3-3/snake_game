@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-    return o;
+
+    return 0;
 }
